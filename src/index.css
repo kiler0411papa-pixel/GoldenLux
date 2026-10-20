@@ -7,50 +7,110 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
-  max-width: 100vw;
-  overflow-x: hidden; /* Убирает черную полосу справа */
   background-color: #0b0b0b;
+  color: #f5f5f5;
+  font-family: "Playfair Display", serif;
 }
 
 #root {
   width: 100%;
-  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
+/* Десктопная шапка */
+header,
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #000000;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+  width: 100%;
+}
+
+header nav,
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.header-actions,
+.header-buttons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Десктопный главный баннер */
+.hero,
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.hero h1,
+.hero-title {
+  font-size: 42px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #cccccc;
+}
+
+/* Изображения */
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* 2. Адаптивность для шапки (Header) */
-header,
-.header,
-nav {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-}
+/* ==========================================================================
+   2. СТИЛИ ИСКЛЮЧИТЕЛЬНО ДЛЯ МОБИЛЬНЫХ ТЕЛЕФОНОВ (ЭКРАНЫ ДО 768px)
+   На ПК эти правила игнорируются!
+   ========================================================================== */
 
 @media (max-width: 768px) {
-  /* Шапка перестраивается в колонку */
+  /* Убираем горизонтальную прокрутку и черную полосу справа */
+  html,
+  body,
+  #root {
+    width: 100% !important;
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Шапка перестраивается вертикально, чтобы ничего не наезжало */
   header,
   .header {
     flex-direction: column !important;
-    padding: 10px !important;
-    gap: 10px !important;
+    align-items: center !important;
+    padding: 15px 10px !important;
+    gap: 12px !important;
+    width: 100% !important;
   }
 
-  /* Навигационные ссылки */
+  /* Навигация на телефоне */
   header nav,
   .nav-links {
     display: flex !important;
     flex-wrap: wrap !important;
     justify-content: center !important;
-    gap: 8px 15px !important;
+    gap: 10px 15px !important;
     width: 100% !important;
   }
 
-  /* Кнопки «Адмін-панель» и «Кошик» */
+  /* Кнопки «Адмін-панель» и «Кошик» по центру */
   .header-actions,
   .header-buttons {
     display: flex !important;
@@ -59,18 +119,22 @@ nav {
     width: 100% !important;
   }
 
-  /* Главный баннер (Hero) */
+  /* Баннер по центру под экран смартфона */
   .hero,
   .hero-section {
-    padding: 20px 10px !important;
+    flex-direction: column !important;
+    padding: 25px 15px !important;
     text-align: center !important;
     width: 100% !important;
   }
 
   .hero h1,
   .hero-title {
-    font-size: 26px !important; /* Уменьшаем заголовок, чтобы не вылезал */
+    font-size: 24px !important; /* Уменьшенный размер текста для смартфона */
     line-height: 1.3 !important;
   }
-}
 
+  .hero p {
+    font-size: 14px !important;
+  }
+}
