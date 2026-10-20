@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Золота каблучка з діамантом",
+    "category": "Золото",
+    "price": 15500,
+    "description": "Вишукана каблучка з жовтого золота 585 проби з сяючим діамантом.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  },
+  {
+    "id": 2,
+    "title": "Срібні сережки «Ніжність»",
+    "category": "Срібло",
+    "price": 2800,
+    "description": "Елегантні срібні сережки 925 проби з фіанітами.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 3,
+    "title": "Каблучка з білого золота",
+    "category": "Біле золото",
+    "price": 18200,
+    "description": "Сучасна каблучка з білого золота з добірним розсипом каменів.",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=500"
+  },
+  {
+    "id": 4,
+    "title": "Браслет срібний плетеній",
+    "category": "Срібло",
+    "price": 3400,
+    "description": "Стильний масивний браслет зі срібла високої проби.",
+    "image": "https://images.unsplash.com/photo-1611591472092-c0529b35b6f2?w=500"
+  },
+  {
+    "id": 5,
+    "title": "Золотий кулон «Серце»",
+    "category": "Золото",
+    "price": 8900,
+    "description": "Ніжний підвісний кулон з червоного золота.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500"
+  },
+  {
+    "id": 6,
+    "title": "Сережки з білого золота з сапфірами",
+    "category": "Біле золото",
+    "price": 24500,
+    "description": "Розкішні сережки класичного дизайну з натуральними сапфірами.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500"
+  },
+  {
+    "id": 7,
+    "title": "Срібне кольє «Зірковий пил»",
+    "category": "Срібло",
+    "price": 5200,
+    "description": "Витончене кольє з безліччю дрібних сяючих вставок.",
+    "image": "https://images.unsplash.com/photo-1598560917505-59a36585c893?w=500"
+  },
+  {
+    "id": 8,
+    "title": "Золота обручка класична",
+    "category": "Золото",
+    "price": 12000,
+    "description": "Гладка європейська обручка з жовтого золота.",
+    "image": "https://images.unsplash.com/photo-1620656798706-534a4665a67e?w=500"
+  },
+  {
+    "id": 9,
+    "title": "Браслет з білого золота з перлами",
+    "category": "Біле золото",
+    "price": 16800,
+    "description": "Ексклюзивний браслет ручної роботи з натуральним перламутром.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500"
+  },
+  {
+    "id": 10,
+    "title": "Срібна каблучка-печатка",
+    "category": "Срібло",
+    "price": 4100,
+    "description": "Стильна масивна каблучка у сучасному стилі унісекс.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  },
+  {
+    "id": 11,
+    "title": "Золотий ланцюжок «Бісмарк»",
+    "category": "Золото",
+    "price": 28000,
+    "description": "Міцний та солідний ланцюжок ручної плетінки.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500"
+  },
+  {
+    "id": 12,
+    "title": "Срібний кулон «Конюшина»",
+    "category": "Срібло",
+    "price": 1900,
+    "description": "Символ удачі з покриттям родію.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500"
+  },
+  {
+    "id": 13,
+    "title": "Каблучка з білого золота зі смарагдом",
+    "category": "Біле золото",
+    "price": 31000,
+    "description": "Витончена модель з яскравим природним смарагдом.",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=500"
+  },
+  {
+    "id": 14,
+    "title": "Золоті сережки-конго",
+    "category": "Золото",
+    "price": 9500,
+    "description": "Класичні круглі сережки середнього діаметру.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 15,
+    "title": "Срібний браслет з шаррмами",
+    "category": "Срібло",
+    "price": 4800,
+    "description": "Пам'ятний браслет з можливістю додавання підвісок.",
+    "image": "https://images.unsplash.com/photo-1611591472092-c0529b35b6f2?w=500"
+  },
+  {
+    "id": 16,
+    "title": "Золотий перстень з рубіном",
+    "category": "Золото",
+    "price": 22400,
+    "description": "Ефектна прикраса з насиченим червоним рубіном.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  },
+  {
+    "id": 17,
+    "title": "Сережки з білого золота «Краплі»",
+    "category": "Біле золото",
+    "price": 14200,
+    "description": "Легкі сережки з підвісними елементами.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500"
+  },
+  {
+    "id": 18,
+    "title": "Срібний чокер з цирконієм",
+    "category": "Срібло",
+    "price": 3600,
+    "description": "Молодіжне коротке кольє по шиї.",
+    "image": "https://images.unsplash.com/photo-1598560917505-59a36585c893?w=500"
+  },
+  {
+    "id": 19,
+    "title": "Золотий хрестик матовий",
+    "category": "Золото",
+    "price": 6700,
+    "description": "Лаконічний релігійний кулон із комбінованого золота.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500"
+  },
+  {
+    "id": 20,
+    "title": "Браслет з білого золота жорсткий",
+    "category": "Біле золото",
+    "price": 21000,
+    "description": "Стильний обідок на зап'ястя з мінімалістичним дизайном.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500"
+  },
+  {
+    "id": 21,
+    "title": "Срібна брошка «Гілка сакури»",
+    "category": "Срібло",
+    "price": 2500,
+    "description": "Витончений аксесуар для одягу з емаллю.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500"
+  },
+  {
+    "id": 22,
+    "title": "Золоті пусети з фіанітами",
+    "category": "Золото",
+    "price": 5400,
+    "description": "Маленькі акуратні сережки-гвіздки на щодень.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 23,
+    "title": "Каблучка з білого золота «Доріжка»",
+    "category": "Біле золото",
+    "price": 13900,
+    "description": "Класична доріжка з дрібних діамантів.",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=500"
+  },
+  {
+    "id": 24,
+    "title": "Срібний гарнітур",
+    "category": "Срібло",
+    "price": 6500,
+    "description": "Гарнітур із синіми мінералами (каблучка + сережки).",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500"
+  },
+  {
+    "id": 25,
+    "title": "Золотий кулон «Зодіак»",
+    "category": "Золото",
+    "price": 7200,
+    "description": "Астрологічний кулон із жовтого золота.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500"
+  },
+  {
+    "id": 26,
+    "title": "Сережки з білого золота з перлами",
+    "category": "Біле золото",
+    "price": 11500,
+    "description": "Елегантні штифтові сережки з білими перлами.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 27,
+    "title": "Срібний ланцюжок «Якорний»",
+    "category": "Срібло",
+    "price": 2200,
+    "description": "Міцна базова модель довжиною 50 см.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500"
+  },
+  {
+    "id": 28,
+    "title": "Золотий браслет на ніжку",
+    "category": "Золото",
+    "price": 9800,
+    "description": "Тонкий і витончений літній аксесуар.",
+    "image": "https://images.unsplash.com/photo-1611591472092-c0529b35b6f2?w=500"
+  },
+  {
+    "id": 29,
+    "title": "Каблучка з білого золота широка",
+    "category": "Біле золото",
+    "price": 19500,
+    "description": "Сучасна дизайнерська геометрія.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  },
+  {
+    "id": 30,
+    "title": "Срібна підвіска «Ключик»",
+    "category": "Срібло",
+    "price": 1700,
+    "description": "Романтичний символ у сріблі 925 проби.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500"
+  },
+  {
+    "id": 31,
+    "title": "Золотий комплект з топазом",
+    "category": "Золото",
+    "price": 34000,
+    "description": "Розкішний набір з блакитними дорогоцінними каменями.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500"
+  },
+  {
+    "id": 32,
+    "title": "Срібні сережки-протяжки",
+    "category": "Срібло",
+    "price": 2400,
+    "description": "Довгі тонкі ланцюжки з камінчиком.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 33,
+    "title": "Браслет з білого золота з діамантами",
+    "category": "Біле золото",
+    "price": 27500,
+    "description": "Блискуча модель для вечірнього виходу.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500"
+  },
+  {
+    "id": 34,
+    "title": "Золота каблучка з гранатом",
+    "category": "Золото",
+    "price": 14100,
+    "description": "Глибокий бордовий колір мінералу в оправі.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  },
+  {
+    "id": 35,
+    "title": "Срібний затискач для краватки",
+    "category": "Срібло",
+    "price": 3100,
+    "description": "Чоловічий класичний аксесуар.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500"
+  },
+  {
+    "id": 36,
+    "title": "Кулон з білого золота «Ангел»",
+    "category": "Біле золото",
+    "price": 8100,
+    "description": "Тонка ювелірна робота.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500"
+  },
+  {
+    "id": 37,
+    "title": "Золоті сережки з англійським замком",
+    "category": "Золото",
+    "price": 16000,
+    "description": "Зручна та надійна посадка на мочку.",
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500"
+  },
+  {
+    "id": 38,
+    "title": "Срібний годинник-браслет",
+    "category": "Срібло",
+    "price": 9900,
+    "description": "Елегантний жіночий годинник.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500"
+  },
+  {
+    "id": 39,
+    "title": "Золота булавка декоративна",
+    "category": "Золото",
+    "price": 6300,
+    "description": "Стильна захисна булавка з вставками.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500"
+  },
+  {
+    "id": 40,
+    "title": "Каблучка з білого золота «Infinity»",
+    "category": "Біле золото",
+    "price": 10500,
+    "description": "Символ нескінченності з дрібним камінням.",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500"
+  }
+]
